@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\obj\Debug\net5.0\1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\bin\Debug\net5.0\1.exe
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\bin\Debug\net5.0\1.deps.json
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\bin\Debug\net5.0\1.runtimeconfig.json
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\bin\Debug\net5.0\1.dll
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\bin\Debug\net5.0\ref\1.dll
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\bin\Debug\net5.0\1.pdb
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\obj\Debug\net5.0\1.dll
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\obj\Debug\net5.0\ref\1.dll
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\obj\Debug\net5.0\1.pdb
+C:\Users\Owner\Desktop\Pratikler\Algoritma Soruları\1\obj\Debug\net5.0\1.genruntimeconfig.cache
